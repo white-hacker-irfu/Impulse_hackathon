@@ -43,5 +43,5 @@ Saved the output in the required CSV format (final_test_output.csv).
 I developed two models for task 7 
 the first model use hybrid CNN-LSTM model, designed to capture both spatial and temporal patterns in the EEG data.
 With a highest accuracy Approximately of 94.81% and Test Accuracy Around 35.94%.
-The secound model uses Random Forest Classifier with highest accuracy of 100.0%
+The second model uses Random Forest Classifier with highest accuracy of 100.0%
 '''
