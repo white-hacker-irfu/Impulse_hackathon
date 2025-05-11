@@ -1,4 +1,4 @@
-# Impulse_hackathon-
+# Impulse_hackathon
 '''
 Project Documentation: EEG Classification Using Machine Learning
 Objective:
